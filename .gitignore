@@ -2,3 +2,4 @@
 *.txt
 current
 img/
+.DS_Store
